@@ -27,5 +27,3 @@ be added after it.
 This pragraph contains
 important new additions
 to this document.
-
-
